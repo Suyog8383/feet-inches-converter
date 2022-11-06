@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(315deg, #0066ff, #00ffcc);
+}
+.container {
+  display: flex;
+  border-radius: 5px;
+  padding: 30px;
+  border: 2px solid black;
+}
+.left {
+  font-size: large;
+  margin: 5px;
+}
+.right {
+  font-size: large;
+  margin: 5px;
+}
+
+#feet-text {
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+  padding: 8px;
+}
+#inches-text {
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+  padding: 8px;
+}
