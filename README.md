@@ -2,6 +2,8 @@
 # About the Project :
 ![Screenshot (465)](https://user-images.githubusercontent.com/92072200/206368895-d7abb5c4-05a0-493e-8d6f-e93a30396fcb.png)
 This project is created by using HTML, CSS and JavaScript. First I created the Design part in Draw.io then completed UI part of project by using HTML and CSS. At last work on functionality part for that i used javaScript.
+# Design
+![Screenshot (466)](https://user-images.githubusercontent.com/92072200/206372904-dba874b7-e2e8-4a78-9424-99c47feb0b47.png)
 # Build With
 - HTML
 - CSS
@@ -14,4 +16,5 @@ https://suyog8383.github.io/feet-inches-converter/
 # Contact
 Suyog Nagawade -
 suyognagawade8383@gmail.com 
+
 
